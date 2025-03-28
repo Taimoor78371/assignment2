@@ -1,6 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+html{
+    background-color: silver;
+}
+h2{
+    color: rgb(38,38,167);
+}
 
-
- body {
+/* body {
     background-color: antiquewhite;
 }
 
@@ -34,4 +42,4 @@ input {
 .name {
     width: 900px;
     height: 100px;
-} 
+} */
